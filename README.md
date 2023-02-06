@@ -12,10 +12,10 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 * Determine Bias of Vine Reviews
 * A Written Report on the Analysis
 
-## Results
+## Results and Summary
 
 ![https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Screenshot%202023-02-06%20121920.png](https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Screenshot%202023-02-06%20121920.png)
 
-## Summary
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+> Completed notebook: [Amazon_Reviews_ETL.ipynb](https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Starter_Code/Amazon_Reviews_ETL.ipynb)
+
+

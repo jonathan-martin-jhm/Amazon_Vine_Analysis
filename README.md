@@ -14,10 +14,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 ## Results
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+![https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Screenshot%202023-02-06%20121920.png](https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Screenshot%202023-02-06%20121920.png)
 
 ## Summary
 The summary states whether or not there is bias, and the results support this statement (2 pt)

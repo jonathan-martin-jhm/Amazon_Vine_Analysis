@@ -16,6 +16,6 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 ![https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Screenshot%202023-02-06%20121920.png](https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Screenshot%202023-02-06%20121920.png)
 
-> Completed notebook: [Amazon_Reviews_ETL.ipynb](https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Starter_Code/Amazon_Reviews_ETL.ipynb)
-
+> Completed notebooks: [Amazon_Reviews_ETL.ipynb](https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Starter_Code/Amazon_Reviews_ETL.ipynb)
+                       [Vine_Review_Analysis.ipynb](https://github.com/jonathan-martin-jhm/Amazon_Vine_Analysis/blob/main/Starter_Code/Starter_Code/Vine_Review_Analysis.ipynb)
 
